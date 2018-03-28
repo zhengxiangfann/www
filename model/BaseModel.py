@@ -12,4 +12,3 @@ class BaseModel(object):
     def search():
         return {"data":{"row":1}}
 
-    
